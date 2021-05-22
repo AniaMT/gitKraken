@@ -5,3 +5,4 @@ pierwsza zmiana na gałezi g002
 druga zmiana na g002
 zmina która trwa
 a tu szef mi przerywa
+zmiana w github
