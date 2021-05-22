@@ -1,4 +1,5 @@
 to jest pierwszy wpis
 Zmiana w gałęzi master i zmiana na gałęzi g001
 pierwsza zmiana na gałęzi master
+pierwsza zmiana na gałezi g002
 druga zmiana na gałęzi master
